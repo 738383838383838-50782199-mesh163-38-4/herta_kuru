@@ -39,7 +39,7 @@ const LANGUAGES = {
             "counter-descriptions": ["黑塔已经咕噜噜了~", "黑塔已经转了"],
             "counter-unit": ["次", "次圈圈"],
             "counter-button": ["转圈圈~", "咕噜噜！"],
-            "credits": "黑塔GIF作者：",
+            "credits": "黑塔网站作者：",
             "footer-repository-text": "在此访问Github源码：",
             "footer-repository-text-2": "herta_kuru 仓库"
         },
